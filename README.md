@@ -1,5 +1,7 @@
 # Home Depot Scraper
 
+With our real-time Home Depot Scraper, you can make sure you stay one step ahead of your competitors. It swiftly gathers data and is designed to acquire this information with ease. Below is a quick tutorial that shows how the Home Depot Scraper works in detail, including code samples, so your scraping projects are hassle-free.
+
 # How it works
 
 You can get Home Depot results by providing your own URLs to our service. We can return the HTML of any Home Depot page you like.
@@ -55,3 +57,8 @@ After executing the code example above, you can expect to get an output similar 
     ]
 }
 ```
+
+The information above outlines the precise steps you need to efficiently use the Home Depot Scraper API. Collect product data quickly, including reviews, prices, product descriptions, and other features, to maintain and develop a competitive edge.
+
+If any questions arise, you can always contact us at hello@oxylabs.io. or via live chat on our website.
+
