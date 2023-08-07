@@ -1,6 +1,6 @@
 # Home Depot Scraper
 
-With our real-time Home Depot Scraper, you can make sure you stay one step ahead of your competitors. It swiftly gathers data and is designed to acquire this information with ease. Below is a quick tutorial that shows how the Home Depot Scraper works in detail, including code samples, so your scraping projects are hassle-free.
+With our real-time [Home Depot Scraper](https://oxy.yt/vajU), you can make sure you stay one step ahead of your competitors. It swiftly gathers data and is designed to acquire this information with ease. Below is a quick tutorial that shows how the Home Depot Scraper works in detail, including code samples, so your scraping projects are hassle-free.
 
 # How it works
 
